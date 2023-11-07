@@ -8,15 +8,15 @@ const Blog = () => {
             <div>
                 <Link href={'/blogpost/learn-javascript'}>
                 <h3 className={styles.blogItemh3}>How to learn JavaScript in 2022?</h3></Link>
-                <p>JavaScript is the language used to design logic for the web</p>
+                <p>JavaScript is the language used to design logic for the websites</p>
             </div>
             <div className="blogItem">
                 <h3>How to learn JavaScript in 2022?</h3>
-                <p>JavaScript is the language used to design logic for the web</p>
+                <p>JavaScript is the language used to design logic for the websites</p>
             </div>
             <div className="blogItem">
                 <h3>How to learn JavaScript in 2022?</h3>
-                <p>JavaScript is the language used to design logic for the web</p>
+                <p>JavaScript is the language used to design logic for the websites</p>
             </div>
         </main>
     </div>
